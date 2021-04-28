@@ -12,6 +12,10 @@ Entries should include a reference to the Pull Request that introduced the chang
 
 ## Unreleased
 
+## 1.3.0
+
+* [FEATURE] Upgrade to [Grafana Enterprise Metrics v1.2.0](https://grafana.com/docs/metrics-enterprise/latest/downloads/#TODO). #TODO
+
 ## 1.2.0
 
 * [CHANGE] The chart now uses memberlist for the ring key-value store removing the need to run Consul. #340
